@@ -1,0 +1,14 @@
+{
+  "name": "githubstatus",
+  "version": "1.0.0",
+  "description": "Proxy call to fetch GitHub status with CORS headers",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-fetch": "^2.2.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
